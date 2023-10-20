@@ -1,0 +1,2 @@
+# gaji-kaaryawan-
+repo tugas 
